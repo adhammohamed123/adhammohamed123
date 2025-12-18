@@ -25,7 +25,15 @@
 
 ### 📂 Full Project Portfolio
 
-#### 🚀 DEVHabit (Personal Project)
+#### 🌟 Bookify (Currently Developing 🏗️)
+- An advanced apartment booking platform featuring user management, property listings, and review systems.
+- **Architecture:** Built using **Clean Architecture** and **Domain-Driven Design (DDD)** principles.
+- **Patterns & Logic:** Implemented **CQRS pattern** with **MediatR**, and **AutoMapper** for seamless data mapping.
+- **Security:** Integrated **Keycloak** for robust Identity and Access Management (IAM).
+- **Quality Assurance:** Covered with comprehensive **Unit and Integration Tests**.
+- **DevOps:** Fully automated via **CI/CD GitHub Actions**.
+
+#### 🚀 DEVHabit (Currently Developing 🏗️)
  Developed a goal-tracking platform for developers to explore advanced backend and DevOps tools.
 - **Features:** Implemented .NET REST API with HATEOAS, API versioning, and data encryption.
 - **Tech Stack:** Docker, CI/CD (GitHub Actions), Azure deployment, and Application Insights.
