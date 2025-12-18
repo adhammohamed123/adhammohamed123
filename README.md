@@ -25,7 +25,7 @@
 
 ### 📂 Full Project Portfolio
 
-#### 🌟 Bookify (Currently Developing 🏗️)
+#### 🌟 [Bookify](https://github.com/adhammohamed123/Bookify) (Currently Developing 🏗️)
 - An advanced apartment booking platform featuring user management, property listings, and review systems.
 - **Architecture:** Built using **Clean Architecture** and **Domain-Driven Design (DDD)** principles.
 - **Patterns & Logic:** Implemented **CQRS pattern** with **MediatR**, and **AutoMapper** for seamless data mapping.
@@ -33,27 +33,27 @@
 - **Quality Assurance:** Covered with comprehensive **Unit and Integration Tests**.
 - **DevOps:** Fully automated via **CI/CD GitHub Actions**.
 
-#### 🚀 DEVHabit (Currently Developing 🏗️)
+#### 🚀 [DEVHabit](https://github.com/adhammohamed123/DevHabitsForTraining) (Currently Developing 🏗️)
  Developed a goal-tracking platform for developers to explore advanced backend and DevOps tools.
 - **Features:** Implemented .NET REST API with HATEOAS, API versioning, and data encryption.
 - **Tech Stack:** Docker, CI/CD (GitHub Actions), Azure deployment, and Application Insights.
 
-#### ⚖️ Visitor Balancer System (Future of Egypt)
+#### ⚖️ [Visitor Balancer System](https://github.com/adhammohamed123/Foe_Visitor_Balancer_AlMAZA)) (Future of Egypt)
  Web and mobile visitor management system to authorize access across departments.
 - **Tech Stack:** .NET Core Web API using Onion architecture, Generic Repository, Unit of Work, and NLog.
 - **Performance:** Integrated role-based authorizations, AutoMapper, and efficient data shaping.
 
-#### 🛠️ Maintenance Management System (Future of Egypt)
+#### 🛠️ [Maintenance Management System](https://github.com/adhammohamed123/MaintainanceProjectFOE) (Future of Egypt)
 Backend Web API to manage and track maintenance operations for hardware devices.
 - **Innovation:** Integrated a local Minimal API leveraging WMI to fetch hardware specs via IP.
 - **Architecture:** Built using .NET Core with Onion architecture (Core, Repository, Service, Presentation).
 
-#### 📦 Repository Management System (Future of Egypt)
+#### 📦 [Repository Management System](https://github.com/adhammohamed123/FOE_Warehouse_ElDab3a) (Future of Egypt)
 Web-based inventory system to manage existing, borrowed, and dispensed items.
 - **Features:** Role-based access control (Officer/Soldier), soft delete, and Excel data import/export.
 - **Pattern:** Followed Clean Architecture principles using EF Core and Repository pattern.
 
-#### 🐟 Intelligent Fish Farm (Graduation Project)
+#### 🐟 [Intelligent Fish Farm](https://github.com/adhammohamed123/Fish_Shield_API) (Graduation Project)
 Role-based ASP.NET Core Web API integrating a YOLO Machine Learning model for disease detection.
 - **Advanced Features:** Stripe payment, real-time chat between owners and specialists, and reporting modules.
 - **Tech Stack:** Used ML.NET for early-stage model testing and production integration.
