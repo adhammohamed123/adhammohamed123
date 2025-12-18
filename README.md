@@ -65,9 +65,10 @@ Role-based ASP.NET Core Web API integrating a YOLO Machine Learning model for di
 | :--- | :--- |
 | **Back-End** | C#, ASP.NET Core, EF Core, LINQ, MediatR, Fluent Validation,REST APIs ,SignalR |
 | **Architecture** | Clean Architecture, SOLID, Design Patterns, Onion ,DDD ,CQRS|
-| **Security** | JWT Authentication, Role-Based Authorization  |
-| **DevOps & Tools** | Docker, Git, GitHub Actions (CI/CD workflows)  |
+| **Security** | JWT Authentication, Role-Based Authorization , KeyClock |
+| **DevOps & Tools** | Docker, Compose ,Git, GitHub Actions (CI/CD workflows) , Azure |
 | **Databases** | SQL Server  |
+| **Testing** | xUnit , Moq , Intgration Testing ..etc|
 
 ---
 
