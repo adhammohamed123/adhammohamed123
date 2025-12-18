@@ -17,6 +17,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 **Education:** Bachelor of Computer and Information Sciences, Information Systems Department.
+- 🏅 **Training:** **ITI Trainee** specializing in **Web Development using .NET**, focusing on advanced OOP, EF Core, and professional software engineering practices.
 - 🏆 **Academic Record:** Graduated with a **GPA of 3.46 (Very Good)** and an **A+** for my graduation project.
 - 🏢 **Professional Experience:** Previously worked as a **Backend Developer** at **Future of Egypt**.
 - 🏗️ **Architecture:** Specialist in **Clean Architecture**, **Onion Architecture**, and **SOLID Principles**.
