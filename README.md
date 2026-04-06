@@ -29,7 +29,7 @@
 #### 🚚 [SaaS Order Delivery Maintain Management System](https://github.com/adhammohamed123/Project_FOE) 
 An enterprise-grade **SaaS Logistics platform** designed for multi-tenancy (Restaurants, Customers, Deliverymen, and Maintenance Hubs).
 - **Architecture:** Built using **Clean Architecture (Onion)** for high maintainability and scalability.
-- **Orchestration:** Developed using **.NET Aspire** to manage microservices and local cloud-native infrastructure.
+- **Orchestration:** Developed using **.NET Aspire** to manage local cloud-native infrastructure.
 - **Real-time & Tracking:** Implemented **SignalR** for live tracking of orders and deliverymen.
 - **Core Innovation:** Features a **Battery-Aware dispatching logic**—couriers with <30% battery cannot accept orders and are rerouted to the nearest maintenance station.
 - **Geospatial Intelligence:** Integrated **OSRM** for routing and **PostgreSQL with PostGIS** for complex spatial queries.
