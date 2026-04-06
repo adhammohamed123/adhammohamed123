@@ -73,7 +73,7 @@ Role-based ASP.NET Core Web API integrating a YOLO Machine Learning model for di
 
 | Category | Skills |
 | :--- | :--- |
-| **Back-End** | C#, ASP.NET Core, **.NET 9**, EF Core, SignalR, MediatR, **In-Memory Channels** |
+| **Back-End** | C#, ASP.NET Core, **.NET 9**, EF Core, SignalR, MediatR, **In-Memory Channels** , Masstransit Framework |
 | **Queuing & Messaging**| **Queueing System Design**, **RabbitMQ**, **Azure Service Bus**, **Quartz.NET (Scheduling)** |
 | **Architecture** | Clean Architecture, **Onion Architecture**, SOLID, Design Patterns, DDD, CQRS |
 | **Cloud & DevOps** | **Azure Cloud**, **.NET Aspire**, Docker, Compose, GitHub Actions (CI/CD) |
