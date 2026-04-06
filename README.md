@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 9">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+<img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ElasticSearch">
 </p>
 
 ---
@@ -25,15 +26,24 @@
 ---
 
 ### 📂 Full Project Portfolio
+> *The following projects are developed for advanced learning and skill acquisition. Video documentation is provided for demonstration.*
 
-#### 🚚 [SaaS Order Delivery Maintain Management System](https://github.com/adhammohamed123/Project_FOE) (Private Repo (Currently Developing 🏗️))
+#### 🛒 [Advanced E-Commerce System](https://github.com/adhammohamed123) (In-Development)
+A robust E-commerce platform with Customer & Admin portals focusing on modern distributed patterns.
+- **Architecture:** Implemented **CQRS** and **Event-Driven Architecture** using **MediatR**.
+- **Tech Stack:** Integrated **ElasticSearch** for searching, **Redis** for caching, **Quartz** for Scheduling and **Paymob** for payment.
+- **Security:** Managed via **Keycloak (IAM)** and containerized using **Docker Compose**.
+- **Roadmap:** Future transition to **Microservices** using **MassTransit**, **RabbitMQ**, and **Azure Blob Storage**.
+- 📹 **[Watch Demo Video]** *(Link to be attached)*
+
+#### 🚚 [SaaS order Delivery Management System](https://github.com/adhammohamed123) 
 An enterprise-grade **SaaS Logistics platform** designed for multi-tenancy (Restaurants, Customers, Deliverymen, and Maintenance Hubs).
-- **Architecture:** Built using **Clean Architecture (Onion)** for high maintainability and scalability.
-- **Orchestration:** Developed using **.NET Aspire** to manage local cloud-native infrastructure.
-- **Real-time & Tracking:** Implemented **SignalR** for live tracking of orders and deliverymen.
-- **Core Innovation:** Features a **Battery-Aware dispatching logic**—couriers with <30% battery cannot accept orders and are rerouted to the nearest maintenance station.
-- **Geospatial Intelligence:** Integrated **OSRM** for routing and **PostgreSQL with PostGIS** for complex spatial queries.
+- **Architecture:** Built using **Clean Architecture (Onion)** and orchestrated with **.NET Aspire**.
+- **Core Innovation:** **Battery-Aware dispatching logic**—couriers with <30% battery are rerouted to maintenance stations.
+- **Geospatial:** Integrated **OSRM** for routing and **PostgreSQL with PostGIS** for real-time tracking via **SignalR**.
+- 📹 **[Watch Demo Video]** *(Link to be attached)*
 
+---
 #### 🌟 [Bookify](https://github.com/adhammohamed123/Bookify) (Learning perpouse)
 - An advanced apartment booking platform featuring user management, property listings, and review systems.
 - **Architecture:** Built using **Clean Architecture** and **Domain-Driven Design (DDD)** principles.
@@ -69,18 +79,18 @@ Role-based ASP.NET Core Web API integrating a YOLO Machine Learning model for di
 
 ---
 
+
 ### 🛠️ Technical Arsenal
 
 | Category | Skills |
 | :--- | :--- |
-| **Back-End** | C#, ASP.NET Core, **.NET 9**, EF Core, SignalR, MediatR, **In-Memory Channels** , Masstransit Framework |
-| **Queuing & Messaging**| **Queueing System Design**, **RabbitMQ**, **Azure Service Bus**, **Quartz.NET (Scheduling)** |
-| **Architecture** | Clean Architecture, **Onion Architecture**, SOLID, Design Patterns, DDD, CQRS |
-| **Cloud & DevOps** | **Azure Cloud**, **.NET Aspire**, Docker, Compose, GitHub Actions (CI/CD) |
-| **Security** | **Keycloak (IAM)**, JWT Authentication, OAuth2, RBAC |
-| **Databases/GIS** | SQL Server, **PostgreSQL (PostGIS)**, Redis, **OSRM** |
+| **Back-End** | C#, ASP.NET Core, **.NET 9**, EF Core, SignalR, MediatR, **In-Memory Channels** |
+| **Queuing & Messaging** | **Queueing System Design**, **RabbitMQ**, **Azure Service Bus**, **MassTransit**, **Quartz.NET** |
+| **Architecture** | Clean Architecture, **Onion Architecture**, SOLID, **CQRS**, **Event-Driven**, DDD |
+| **Cloud & DevOps** | **Azure Cloud**, **Azure Blob Storage**, **.NET Aspire**, Docker, Compose, GitHub Actions |
+| **Databases & Search** | SQL Server, **PostgreSQL (PostGIS)**, **ElasticSearch**, Redis, **OSRM** |
+| **Security & Payment** | **Keycloak (IAM)**, JWT, **Paymob**, Stripe, OAuth2, RBAC |
 | **Testing** | xUnit, Moq, Integration Testing |
-
 ---
 
 ### 📊 GitHub Statistics
