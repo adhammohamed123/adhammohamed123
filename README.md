@@ -26,7 +26,7 @@
 
 ### 📂 Full Project Portfolio
 
-#### 🚚 [SaaS Order Delivery Maintain Management System](https://github.com/adhammohamed123/Project_FOE) 
+#### 🚚 [SaaS Order Delivery Maintain Management System](https://github.com/adhammohamed123/Project_FOE) (Private Repo (Currently Developing 🏗️))
 An enterprise-grade **SaaS Logistics platform** designed for multi-tenancy (Restaurants, Customers, Deliverymen, and Maintenance Hubs).
 - **Architecture:** Built using **Clean Architecture (Onion)** for high maintainability and scalability.
 - **Orchestration:** Developed using **.NET Aspire** to manage local cloud-native infrastructure.
@@ -34,7 +34,7 @@ An enterprise-grade **SaaS Logistics platform** designed for multi-tenancy (Rest
 - **Core Innovation:** Features a **Battery-Aware dispatching logic**—couriers with <30% battery cannot accept orders and are rerouted to the nearest maintenance station.
 - **Geospatial Intelligence:** Integrated **OSRM** for routing and **PostgreSQL with PostGIS** for complex spatial queries.
 
-#### 🌟 [Bookify](https://github.com/adhammohamed123/Bookify) (Currently Developing 🏗️)
+#### 🌟 [Bookify](https://github.com/adhammohamed123/Bookify) (Learning perpouse)
 - An advanced apartment booking platform featuring user management, property listings, and review systems.
 - **Architecture:** Built using **Clean Architecture** and **Domain-Driven Design (DDD)** principles.
 - **Patterns & Logic:** Implemented **CQRS pattern** with **MediatR**, and **AutoMapper** for seamless data mapping.
@@ -42,7 +42,7 @@ An enterprise-grade **SaaS Logistics platform** designed for multi-tenancy (Rest
 - **Quality Assurance:** Covered with comprehensive **Unit and Integration Tests**.
 - **DevOps:** Fully automated via **CI/CD GitHub Actions**.
 
-#### 🚀 [DEVHabit](https://github.com/adhammohamed123/DevHabitsForTraining) (Currently Developing 🏗️)
+#### 🚀 [DEVHabit](https://github.com/adhammohamed123/DevHabitsForTraining) (Learning perpouse)
 Developed a goal-tracking platform for developers to explore advanced backend and DevOps tools.
 - **Features:** Implemented .NET REST API with HATEOAS, API versioning, and data encryption.
 - **Tech Stack:** Docker, CI/CD (GitHub Actions), Azure deployment, and Application Insights.
