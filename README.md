@@ -8,9 +8,9 @@
   <a href="https://www.youtube.com/@adhammohamed1371" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 9">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
 </p>
 
 ---
@@ -26,6 +26,14 @@
 
 ### 📂 Full Project Portfolio
 
+#### 🚚 [Project FOE - SaaS Delivery Management System](https://github.com/adhammohamed123/Project_FOE) 
+An enterprise-grade **SaaS Logistics platform** designed for multi-tenancy (Restaurants, Customers, Deliverymen, and Maintenance Hubs).
+- **Architecture:** Built using **Clean Architecture (Onion)** for high maintainability and scalability.
+- **Orchestration:** Developed using **.NET Aspire** to manage microservices and local cloud-native infrastructure.
+- **Real-time & Tracking:** Implemented **SignalR** for live tracking of orders and deliverymen.
+- **Core Innovation:** Features a **Battery-Aware dispatching logic**—couriers with <30% battery cannot accept orders and are rerouted to the nearest maintenance station.
+- **Geospatial Intelligence:** Integrated **OSRM** for routing and **PostgreSQL with PostGIS** for complex spatial queries.
+
 #### 🌟 [Bookify](https://github.com/adhammohamed123/Bookify) (Currently Developing 🏗️)
 - An advanced apartment booking platform featuring user management, property listings, and review systems.
 - **Architecture:** Built using **Clean Architecture** and **Domain-Driven Design (DDD)** principles.
@@ -35,18 +43,18 @@
 - **DevOps:** Fully automated via **CI/CD GitHub Actions**.
 
 #### 🚀 [DEVHabit](https://github.com/adhammohamed123/DevHabitsForTraining) (Currently Developing 🏗️)
- Developed a goal-tracking platform for developers to explore advanced backend and DevOps tools.
+Developed a goal-tracking platform for developers to explore advanced backend and DevOps tools.
 - **Features:** Implemented .NET REST API with HATEOAS, API versioning, and data encryption.
 - **Tech Stack:** Docker, CI/CD (GitHub Actions), Azure deployment, and Application Insights.
 
-#### ⚖️ [Visitor Balancer System](https://github.com/adhammohamed123/Foe_Visitor_Balancer_AlMAZA)) (Future of Egypt)
- Web and mobile visitor management system to authorize access across departments.
+#### ⚖️ [Visitor Balancer System](https://github.com/adhammohamed123/Foe_Visitor_Balancer_AlMAZA) (Future of Egypt)
+Web and mobile visitor management system to authorize access across departments.
 - **Tech Stack:** .NET Core Web API using Onion architecture, Generic Repository, Unit of Work, and NLog.
 - **Performance:** Integrated role-based authorizations, AutoMapper, and efficient data shaping.
 
 #### 🛠️ [Maintenance Management System](https://github.com/adhammohamed123/MaintainanceProjectFOE) (Future of Egypt)
 Backend Web API to manage and track maintenance operations for hardware devices.
-- **Innovation:** Integrated a local Minimal API leveraging WMI to fetch hardware specs via IP.
+- **Innovation:** Integrated a local Minimal API leveraging **WMI** to fetch hardware specs via IP.
 - **Architecture:** Built using .NET Core with Onion architecture (Core, Repository, Service, Presentation).
 
 #### 📦 [Repository Management System](https://github.com/adhammohamed123/FOE_Warehouse_ElDab3a) (Future of Egypt)
@@ -62,20 +70,21 @@ Role-based ASP.NET Core Web API integrating a YOLO Machine Learning model for di
 ---
 
 ### 🛠️ Technical Arsenal
+
 | Category | Skills |
 | :--- | :--- |
-| **Back-End** | C#, ASP.NET Core, EF Core, LINQ, MediatR, Fluent Validation,REST APIs ,
-SignalR |
-| **Architecture** | Clean Architecture, SOLID, Design Patterns, Onion ,DDD ,CQRS|
-| **Security** | JWT Authentication, Role-Based Authorization , KeyCloak |
-| **DevOps & Tools** | Docker, Compose ,Git, GitHub Actions (CI/CD workflows) , Azure |
-| **Databases** | SQL Server  |
-| **Testing** | xUnit , Moq , Intgration Testing ..etc|
+| **Back-End** | C#, ASP.NET Core, **.NET 9**, EF Core, SignalR, MediatR, **In-Memory Channels** |
+| **Queuing & Messaging**| **Queueing System Design**, **RabbitMQ**, **Azure Service Bus**, **Quartz.NET (Scheduling)** |
+| **Architecture** | Clean Architecture, **Onion Architecture**, SOLID, Design Patterns, DDD, CQRS |
+| **Cloud & DevOps** | **Azure Cloud**, **.NET Aspire**, Docker, Compose, GitHub Actions (CI/CD) |
+| **Security** | **Keycloak (IAM)**, JWT Authentication, OAuth2, RBAC |
+| **Databases/GIS** | SQL Server, **PostgreSQL (PostGIS)**, Redis, **OSRM** |
+| **Testing** | xUnit, Moq, Integration Testing |
 
 ---
 
 ### 📊 GitHub Statistics
-<p align="left">
+<p left="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adhammohamed123&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhammohamed123&layout=compact&theme=tokyonight" />
 </p>
