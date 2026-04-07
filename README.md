@@ -61,16 +61,20 @@ Developed a goal-tracking platform for developers to explore advanced backend an
 Web and mobile visitor management system to authorize access across departments.
 - **Tech Stack:** .NET Core Web API using Onion architecture, Generic Repository, Unit of Work, and NLog.
 - **Performance:** Integrated role-based authorizations, AutoMapper, and efficient data shaping.
+- 📹 **[Watch Demo Video]** *([Link to be attached](https://drive.google.com/file/d/1VHlSwO7MexVtbIL9hS5fKxhzamdbhiIC/view?usp=sharing))* 
 
 #### 🛠️ [Maintenance Management System](https://github.com/adhammohamed123/MaintainanceProjectFOE) (Future of Egypt)
 Backend Web API to manage and track maintenance operations for hardware devices.
 - **Innovation:** Integrated a local Minimal API leveraging **WMI** to fetch hardware specs via IP.
 - **Architecture:** Built using .NET Core with Onion architecture (Core, Repository, Service, Presentation).
+- 📹 **[Watch Demo Video]** *([Link to be attached](https://drive.google.com/file/d/1kfiTT2LeAH1J-knNJ3DZeW7ODmF15_6l/view?usp=drive_link))* 
 
 #### 📦 [Repository Management System](https://github.com/adhammohamed123/FOE_Warehouse_ElDab3a) (Future of Egypt)
 Web-based inventory system to manage existing, borrowed, and dispensed items.
 - **Features:** Role-based access control (Officer/Soldier), soft delete, and Excel data import/export.
 - **Pattern:** Followed Clean Architecture principles using EF Core and Repository pattern.
+- 📹 **[Watch Demo Video]** **([Link to be attached]((https://drive.google.com/file/d/1l-KgnmMUuB1TDlrwi-wsBTyTXQSp_XfU/view?usp=sharing))* 
+
 
 #### 🐟 [Intelligent Fish Farm](https://github.com/adhammohamed123/Fish_Shield_API) (Graduation Project)
 Role-based ASP.NET Core Web API integrating a YOLO Machine Learning model for disease detection.
