@@ -34,7 +34,11 @@ A robust E-commerce platform with Customer & Admin portals focusing on modern di
 - **Tech Stack:** Integrated **ElasticSearch** for searching, **Redis** for caching, **Quartz** for Scheduling and **Paymob** for payment.
 - **Security:** Managed via **Keycloak (IAM)** and containerized using **Docker Compose**.
 - **Roadmap:** Future transition to **Microservices** using **MassTransit**, **RabbitMQ**, and **Azure Blob Storage**.
-- 📹 **[Watch Demo Video]** *(Link to be attached)*
+- 📹 **[Watch Demo Video]** *([Trailer](https://drive.google.com/file/d/1UU0WZLx2wg5qiJwiyAjp6TrNqgDh1e-q/view?usp=sharing))*
+- 📹 **[Watch Demo Video]** *([Detailed User Flow](https://drive.google.com/file/d/1YXg2HWAx_UBgOtkC_OPKRWHODreqeK_V/view?usp=sharing))*
+- 📹 **[Watch Demo Video]** *([Technical Architecture Deep Dive](https://drive.google.com/file/d/1CM_ItdnSRg8l9hV9VNFUi4Z4ezDfbd-p/view?usp=sharing))*
+
+
 
 #### 🚚 [SaaS order Delivery Management System](https://github.com/adhammohamed123) 
 An enterprise-grade **SaaS Logistics platform** designed for multi-tenancy (Restaurants, Customers, Deliverymen, and Maintenance Hubs).
