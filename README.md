@@ -100,8 +100,8 @@ Role-based ASP.NET Core Web API integrating a YOLO Machine Learning model for di
 
 ### 📊 GitHub Statistics
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adhammohamed123&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhammohamed123&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adhammohamed123&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adhammohamed123&layout=compact&theme=tokyonight" />
 </p>
 
 ---
