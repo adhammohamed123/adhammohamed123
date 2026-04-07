@@ -73,7 +73,7 @@ Backend Web API to manage and track maintenance operations for hardware devices.
 Web-based inventory system to manage existing, borrowed, and dispensed items.
 - **Features:** Role-based access control (Officer/Soldier), soft delete, and Excel data import/export.
 - **Pattern:** Followed Clean Architecture principles using EF Core and Repository pattern.
-- 📹 **[Watch Demo Video]** **([Link to be attached]((https://drive.google.com/file/d/1l-KgnmMUuB1TDlrwi-wsBTyTXQSp_XfU/view?usp=sharing))* 
+- 📹 **[Watch Demo Video]** **([Link to be attached](https://drive.google.com/file/d/1l-KgnmMUuB1TDlrwi-wsBTyTXQSp_XfU/view?usp=sharing))* 
 
 
 #### 🐟 [Intelligent Fish Farm](https://github.com/adhammohamed123/Fish_Shield_API) (Graduation Project)
@@ -97,10 +97,11 @@ Role-based ASP.NET Core Web API integrating a YOLO Machine Learning model for di
 | **Testing** | xUnit, Moq, Integration Testing |
 ---
 
+
 ### 📊 GitHub Statistics
-<p left="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adhammohamed123&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhammohamed123&layout=compact&theme=tokyonight" />
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adhammohamed123&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhammohamed123&layout=compact&theme=tokyonight" />
 </p>
 
 ---
